@@ -1,4 +1,4 @@
-# cis545-project
+# Credit Card Approval Prediction
 
 Credit score is a prevalent method to control risks in the financial industry. By utilizing personal information and applicant data, we are able to predict the possibility of defaulting from credit card borrowings. Machine learning algorithms can come into play to help financial institutions decide whether the applicants have good or bad credit, in order to make a judgement about credit card approval. Many banks offer approval decisions for credit cards immediately after applications have been filled. If any financial institutions had an accurate model to predict applicants’ credit behaviors, they would be able to reduce risks of defaulting while saving costs, since manually analyzing applications is both time-consuming and error-prone.
 
